@@ -545,15 +545,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000001-flag", 
+                  "block_code": "BUD0000000001-flag",
                   "title": "",
                   "step": 26,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -739,19 +739,18 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000002-flag", 
+                  "block_code": "BUD0000000002-flag",
                   "title": "",
                   "step": 6,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
-                
               ]
             }
           },
@@ -866,15 +865,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000003-flag", 
+                  "block_code": "BUD0000000003-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -1097,15 +1096,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000004-flag", 
+                  "block_code": "BUD0000000004-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -1314,15 +1313,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000005-flag", 
+                  "block_code": "BUD0000000005-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -1474,15 +1473,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000006-flag", 
+                  "block_code": "BUD0000000006-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -1681,15 +1680,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000007-flag", 
+                  "block_code": "BUD0000000007-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -1898,15 +1897,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000008-flag", 
+                  "block_code": "BUD0000000008-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -2058,15 +2057,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000009-flag", 
+                  "block_code": "BUD0000000009-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -2265,15 +2264,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000010-flag", 
+                  "block_code": "BUD0000000010-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -2458,15 +2457,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000011-flag", 
+                  "block_code": "BUD0000000011-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -2618,15 +2617,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000012-flag", 
+                  "block_code": "BUD0000000012-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -2811,15 +2810,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000013-flag", 
+                  "block_code": "BUD0000000013-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -3277,15 +3276,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000014-flag", 
+                  "block_code": "BUD0000000014-flag",
                   "title": "",
                   "step": 23,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -3484,15 +3483,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000015-flag", 
+                  "block_code": "BUD0000000015-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -3715,15 +3714,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000016-flag", 
+                  "block_code": "BUD0000000016-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -3908,15 +3907,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000017-flag", 
+                  "block_code": "BUD0000000017-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -4068,15 +4067,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000018-flag", 
+                  "block_code": "BUD0000000018-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -5622,15 +5621,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000001-flag", 
+                  "block_code": "BUD0000000001-flag",
                   "title": "",
                   "step": 26,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -5816,19 +5815,18 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000002-flag", 
+                  "block_code": "BUD0000000002-flag",
                   "title": "",
                   "step": 6,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
-                
               ]
             }
           },
@@ -5943,15 +5941,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000003-flag", 
+                  "block_code": "BUD0000000003-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -6174,15 +6172,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000004-flag", 
+                  "block_code": "BUD0000000004-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -6391,15 +6389,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000005-flag", 
+                  "block_code": "BUD0000000005-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -6551,15 +6549,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000006-flag", 
+                  "block_code": "BUD0000000006-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -6758,15 +6756,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000007-flag", 
+                  "block_code": "BUD0000000007-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -6975,15 +6973,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000008-flag", 
+                  "block_code": "BUD0000000008-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -7135,15 +7133,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000009-flag", 
+                  "block_code": "BUD0000000009-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -7342,15 +7340,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000010-flag", 
+                  "block_code": "BUD0000000010-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -7535,15 +7533,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000011-flag", 
+                  "block_code": "BUD0000000011-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -7695,15 +7693,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000012-flag", 
+                  "block_code": "BUD0000000012-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -7888,15 +7886,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000013-flag", 
+                  "block_code": "BUD0000000013-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -8341,29 +8339,42 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BLK0000000112",
-                  "title": "이차방정식 - 테스트",
+                  "block_code": "BLK0000000055",
+                  "title": "Lesson 10",
                   "step": 22,
-                  "tile_type": "test",
+                  "tile_type": "lecture",
                   "course_type": "regular-A",
                   "difficulty": "basic",
-                  "object_on_tile": "test",
+                  "object_on_tile": "cement",
                   "status": "COMPLETED",
                   "is_today": false,
                   "grade": 1,
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000014-flag", 
-                  "title": "",
+                  "block_code": "BLK0000000056",
+                  "title": "Assignment 10",
                   "step": 23,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
-                  "grade": null,
+                  "tile_type": "homework",
+                  "course_type": "regular-A",
+                  "difficulty": "basic",
+                  "object_on_tile": "metal",
+                  "status": "COMPLETED",
+                  "is_today": false,
+                  "grade": 1,
+                  "progress": 100
+                },
+                {
+                  "block_code": "BUD0000000014-flag",
+                  "title": "",
+                  "step": 24,
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": true,
+                  "grade": 0,
                   "progress": 100
                 }
               ]
@@ -8561,15 +8572,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000015-flag", 
+                  "block_code": "BUD0000000015-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -8792,15 +8803,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000016-flag", 
+                  "block_code": "BUD0000000016-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -8985,15 +8996,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000017-flag", 
+                  "block_code": "BUD0000000017-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
@@ -9145,15 +9156,15 @@
                   "progress": 100
                 },
                 {
-                  "block_code": "BUD0000000018-flag", 
+                  "block_code": "BUD0000000018-flag",
                   "title": "",
                   "step": 2,
-                  "tile_type": "flag", 
-                  "course_type": "",  
-                  "difficulty": "",  
-                  "object_on_tile": "flag",  
-                  "status": "COMPLETED", 
-                  "is_today": false,  
+                  "tile_type": "flag",
+                  "course_type": "",
+                  "difficulty": "",
+                  "object_on_tile": "flag",
+                  "status": "COMPLETED",
+                  "is_today": false,
                   "grade": null,
                   "progress": 100
                 }
