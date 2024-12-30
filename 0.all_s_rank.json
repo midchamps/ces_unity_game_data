@@ -8373,7 +8373,7 @@
                   "difficulty": "",
                   "object_on_tile": "flag",
                   "status": "COMPLETED",
-                  "is_today": true,
+                  "is_today": false,
                   "grade": 0,
                   "progress": 100
                 }
