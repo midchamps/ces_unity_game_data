@@ -44,7 +44,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 4,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -68,7 +68,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 7,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -121,7 +121,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -135,7 +135,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-DDD-BIG-SUE",
@@ -590,7 +590,7 @@
                                     "status": "COMPLETED",
                                     "title": "One World Trade 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 7,
                                     "chapters": []
                                 },
                                 {
@@ -598,7 +598,7 @@
                                     "status": "COMPLETED",
                                     "title": "One World Trade 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": []
                                 },
                                 {
@@ -606,7 +606,7 @@
                                     "status": "COMPLETED",
                                     "title": "One World Trade 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": []
                                 }
                             ],
@@ -776,7 +776,7 @@
                                     "status": "COMPLETED",
                                     "title": "FlatIron 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": []
                                 },
                                 {
@@ -784,7 +784,7 @@
                                     "status": "COMPLETED",
                                     "title": "FlatIron 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": []
                                 }
                             ],
@@ -908,7 +908,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -932,7 +932,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 4,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -985,7 +985,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -999,7 +999,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 7,
                                     "chapters": [
                                         {
                                             "code": "MID-DDD-BIG-SUE",
@@ -1202,7 +1202,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Khalifa 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -1216,7 +1216,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Khalifa 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-DDD-BIG-SUE",
@@ -1342,7 +1342,7 @@
                                     "status": "COMPLETED",
                                     "title": "Dubai Frame 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -1366,7 +1366,7 @@
                                     "status": "COMPLETED",
                                     "title": "Dubai Frame 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 8,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -1516,7 +1516,7 @@
                                     "status": "COMPLETED",
                                     "title": "Osaka Castle 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -1540,7 +1540,7 @@
                                     "status": "COMPLETED",
                                     "title": "Osaka Castle 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -1593,7 +1593,7 @@
                                     "status": "COMPLETED",
                                     "title": "Osaka Castle 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -1709,7 +1709,7 @@
                                     "status": "COMPLETED",
                                     "title": "Skytree 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -1733,7 +1733,7 @@
                                     "status": "COMPLETED",
                                     "title": "Skytree 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -1926,7 +1926,7 @@
                                     "status": "COMPLETED",
                                     "title": "Cocoon Tower 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 6,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -1950,7 +1950,7 @@
                                     "status": "COMPLETED",
                                     "title": "Cocoon Tower 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -2100,7 +2100,7 @@
                                     "status": "COMPLETED",
                                     "title": "Big Ben 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -2124,7 +2124,7 @@
                                     "status": "COMPLETED",
                                     "title": "Big Ben 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -2158,7 +2158,7 @@
                                     "status": "COMPLETED",
                                     "title": "Big Ben 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -2293,7 +2293,7 @@
                                     "status": "COMPLETED",
                                     "title": "London Eye 1층",
                                     "floor_progress": 0,
-                                    "floor_grade": 0,
+                                    "floor_grade": 6,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -2317,7 +2317,7 @@
                                     "status": "COMPLETED",
                                     "title": "London Eye 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 4,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -2351,7 +2351,7 @@
                                     "status": "COMPLETED",
                                     "title": "London Eye 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 8,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -2370,7 +2370,7 @@
                                     "status": "COMPLETED",
                                     "title": "London Eye 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -2660,7 +2660,7 @@
                                     "status": "COMPLETED",
                                     "title": "Arc de triomphe 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -2684,7 +2684,7 @@
                                     "status": "COMPLETED",
                                     "title": "Arc de triomphe 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -2718,7 +2718,7 @@
                                     "status": "COMPLETED",
                                     "title": "Arc de triomphe 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -2839,7 +2839,7 @@
                                     "status": "COMPLETED",
                                     "title": "Eiffel Tower 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -2863,7 +2863,7 @@
                                     "status": "COMPLETED",
                                     "title": "Eiffel Tower 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -2897,7 +2897,7 @@
                                     "status": "COMPLETED",
                                     "title": "Eiffel Tower 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -3316,7 +3316,7 @@
                                 {
                                     "code": "BUD0000000015-F1",
                                     "status": "COMPLETED",
-                                    "title": "Empire State 1층",
+                                    "title": "Montparnasse 1층",
                                     "floor_progress": 100,
                                     "floor_grade": 0,
                                     "chapters": [
@@ -3539,7 +3539,7 @@
                                     "status": "COMPLETED",
                                     "title": "Sydney Tower 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 6,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -3563,7 +3563,7 @@
                                     "status": "COMPLETED",
                                     "title": "Sydney Tower 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -3597,7 +3597,7 @@
                                     "status": "COMPLETED",
                                     "title": "Sydney Tower 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -3780,7 +3780,7 @@
                                     "status": "COMPLETED",
                                     "title": "Deutsche Bank 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -3814,7 +3814,7 @@
                                     "status": "COMPLETED",
                                     "title": "Deutsche Bank 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -3833,7 +3833,7 @@
                                     "status": "COMPLETED",
                                     "title": "Deutsche Bank 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -5133,7 +5133,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 4,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -5157,7 +5157,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 7,,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -5210,7 +5210,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -5224,7 +5224,7 @@
                                     "status": "COMPLETED",
                                     "title": "Empire State 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-DDD-BIG-SUE",
@@ -5679,7 +5679,7 @@
                                     "status": "COMPLETED",
                                     "title": "One World Trade 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 7,
                                     "chapters": []
                                 },
                                 {
@@ -5687,7 +5687,7 @@
                                     "status": "COMPLETED",
                                     "title": "One World Trade 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": []
                                 },
                                 {
@@ -5695,7 +5695,7 @@
                                     "status": "COMPLETED",
                                     "title": "One World Trade 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": []
                                 }
                             ],
@@ -5865,7 +5865,7 @@
                                     "status": "COMPLETED",
                                     "title": "FlatIron 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": []
                                 },
                                 {
@@ -5873,7 +5873,7 @@
                                     "status": "COMPLETED",
                                     "title": "FlatIron 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": []
                                 }
                             ],
@@ -5997,7 +5997,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -6021,7 +6021,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 4,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -6074,7 +6074,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -6088,7 +6088,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Al Arab 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 7,
                                     "chapters": [
                                         {
                                             "code": "MID-DDD-BIG-SUE",
@@ -6291,7 +6291,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Khalifa 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -6305,7 +6305,7 @@
                                     "status": "COMPLETED",
                                     "title": "Burj Khalifa 5층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-DDD-BIG-SUE",
@@ -6431,7 +6431,7 @@
                                     "status": "COMPLETED",
                                     "title": "Dubai Frame 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -6455,7 +6455,7 @@
                                     "status": "COMPLETED",
                                     "title": "Dubai Frame 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 8,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -6605,7 +6605,7 @@
                                     "status": "COMPLETED",
                                     "title": "Osaka Castle 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -6629,7 +6629,7 @@
                                     "status": "COMPLETED",
                                     "title": "Osaka Castle 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -6682,7 +6682,7 @@
                                     "status": "COMPLETED",
                                     "title": "Osaka Castle 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -6798,7 +6798,7 @@
                                     "status": "COMPLETED",
                                     "title": "Skytree 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -6822,7 +6822,7 @@
                                     "status": "COMPLETED",
                                     "title": "Skytree 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -7015,7 +7015,7 @@
                                     "status": "COMPLETED",
                                     "title": "Cocoon Tower 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 6,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -7039,7 +7039,7 @@
                                     "status": "COMPLETED",
                                     "title": "Cocoon Tower 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -7189,7 +7189,7 @@
                                     "status": "COMPLETED",
                                     "title": "Big Ben 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -7213,7 +7213,7 @@
                                     "status": "COMPLETED",
                                     "title": "Big Ben 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -7247,7 +7247,7 @@
                                     "status": "COMPLETED",
                                     "title": "Big Ben 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -7381,8 +7381,8 @@
                                     "code": "BUD0000000011-F1",
                                     "status": "COMPLETED",
                                     "title": "London Eye 1층",
-                                    "floor_progress": 0,
-                                    "floor_grade": 0,
+                                    "floor_progress": 100,
+                                    "floor_grade": 6,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -7406,7 +7406,7 @@
                                     "status": "COMPLETED",
                                     "title": "London Eye 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 4,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -7440,7 +7440,7 @@
                                     "status": "COMPLETED",
                                     "title": "London Eye 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 8,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -7459,7 +7459,7 @@
                                     "status": "COMPLETED",
                                     "title": "London Eye 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
@@ -7749,7 +7749,7 @@
                                     "status": "COMPLETED",
                                     "title": "Arc de triomphe 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -7773,7 +7773,7 @@
                                     "status": "COMPLETED",
                                     "title": "Arc de triomphe 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -7807,7 +7807,7 @@
                                     "status": "COMPLETED",
                                     "title": "Arc de triomphe 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -7928,7 +7928,7 @@
                                     "status": "COMPLETED",
                                     "title": "Eiffel Tower 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -7952,7 +7952,7 @@
                                     "status": "COMPLETED",
                                     "title": "Eiffel Tower 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -7986,7 +7986,7 @@
                                     "status": "COMPLETED",
                                     "title": "Eiffel Tower 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -8405,7 +8405,7 @@
                                 {
                                     "code": "BUD0000000015-F1",
                                     "status": "COMPLETED",
-                                    "title": "Empire State 1층",
+                                    "title": "Montparnasse State 1층",
                                     "floor_progress": 100,
                                     "floor_grade": 0,
                                     "chapters": [
@@ -8628,7 +8628,7 @@
                                     "status": "COMPLETED",
                                     "title": "Sydney Tower 1층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 6,
                                     "chapters": [
                                         {
                                             "code": "MID-AS2-BIG-SUE",
@@ -8652,7 +8652,7 @@
                                     "status": "COMPLETED",
                                     "title": "Sydney Tower 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -8686,7 +8686,7 @@
                                     "status": "COMPLETED",
                                     "title": "Sydney Tower 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 2,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -8869,7 +8869,7 @@
                                     "status": "COMPLETED",
                                     "title": "Deutsche Bank 2층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 5,
                                     "chapters": [
                                         {
                                             "code": "MID-A5D-BIG-SUE",
@@ -8903,7 +8903,7 @@
                                     "status": "COMPLETED",
                                     "title": "Deutsche Bank 3층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 3,
                                     "chapters": [
                                         {
                                             "code": "MID-A56-BIG-SUE",
@@ -8922,7 +8922,7 @@
                                     "status": "COMPLETED",
                                     "title": "Deutsche Bank 4층",
                                     "floor_progress": 100,
-                                    "floor_grade": 0,
+                                    "floor_grade": 1,
                                     "chapters": [
                                         {
                                             "code": "MID-FS1-BIG-SUE",
