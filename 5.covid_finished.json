@@ -8367,7 +8367,7 @@
                                     "difficulty": "basic",
                                     "object_on_tile": "metal",
                                     "status": "WAITING",
-                                    "is_today": true,
+                                    "is_today": false,
                                     "grade": null,
                                     "progress": 0
                                 },

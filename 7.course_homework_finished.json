@@ -3271,7 +3271,7 @@
                                     "difficulty": "basic",
                                     "object_on_tile": "metal",
                                     "status": "IN_PROGRESS",
-                                    "is_today": true,
+                                    "is_today": false,
                                     "grade": null,
                                     "progress": 0
                                 },
@@ -8373,7 +8373,7 @@
                                     "difficulty": "",
                                     "object_on_tile": "flag",
                                     "status": "WAITING",
-                                    "is_today": true,
+                                    "is_today": false,
                                     "grade": null,
                                     "progress": 0
                                 }
