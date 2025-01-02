@@ -7904,7 +7904,7 @@
                     {
                         "code": "BUD0000000014",
                         "name": "Eiffel Tower",
-                        "progress": 90,
+                        "progress": 100,
                         "is_purchase": true,
                         "flag_completed": false,
                         "tourist_count": 0,
@@ -8347,7 +8347,7 @@
                                     "difficulty": "basic",
                                     "object_on_tile": "cement",
                                     "status": "COMPLETED",
-                                    "is_today": true,
+                                    "is_today": false,
                                     "grade": 1,
                                     "progress": 100
                                 },
@@ -8360,7 +8360,7 @@
                                     "difficulty": "basic",
                                     "object_on_tile": "metal",
                                     "status": "IN_PROGRESS",
-                                    "is_today": false,
+                                    "is_today": true,
                                     "grade": null,
                                     "progress": 0
                                 },
