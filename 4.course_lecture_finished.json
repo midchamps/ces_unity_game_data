@@ -8354,7 +8354,7 @@
                                     "difficulty": "basic",
                                     "object_on_tile": "cement",
                                     "status": "COMPLETED",
-                                    "is_today": false,
+                                    "is_today": true,
                                     "grade": 1,
                                     "progress": 100
                                 },
