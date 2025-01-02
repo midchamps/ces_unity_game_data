@@ -1,16 +1,5 @@
 {
-    "location": [
-        {
-            "from": {
-                "target": "building",
-                "code": "BUD0000000014"
-            },
-            "to": {
-                "target": "infra",
-                "code": "BUD0000000014-I11"
-            }
-        }
-    ],
+    "location": [],
     "action_list": [],
     "finish_tutorial": true,
     "mode": "owner",
