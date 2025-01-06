@@ -7806,32 +7806,6 @@
                                     "is_today": false,
                                     "grade": 1,
                                     "progress": 100
-                                },
-                                {
-                                    "block_code": "BLK0000000056",
-                                    "title": "Assignment 10",
-                                    "step": 23,
-                                    "tile_type": "homework",
-                                    "course_type": "regular-A",
-                                    "difficulty": "basic",
-                                    "object_on_tile": "metal",
-                                    "status": "COMPLETED",
-                                    "is_today": false,
-                                    "grade": 1,
-                                    "progress": 100
-                                },
-                                {
-                                    "block_code": "BUD0000000014-flag",
-                                    "title": "",
-                                    "step": 24,
-                                    "tile_type": "flag",
-                                    "course_type": "",
-                                    "difficulty": "",
-                                    "object_on_tile": "flag",
-                                    "status": "COMPLETED",
-                                    "is_today": true,
-                                    "grade": 0,
-                                    "progress": 100
                                 }
                             ]
                         }
